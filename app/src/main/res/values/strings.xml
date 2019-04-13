@@ -106,4 +106,8 @@
     <string name="share">Share</string>
     <string name="share_text">Este fue mi comentario</string>
     <string name="NavDrawerDescription">Imagen de encabezado para el Nav Drawer</string>
+    <string name="aboutInfo">Gerardo Méndez Alvarez, jóven de 19 años y creador de esta aplicación. Actualmente estudia
+        la carrera de Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de
+        Guatemala.
+    </string>
 </resources>
